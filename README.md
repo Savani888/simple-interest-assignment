@@ -1,2 +1,8 @@
-# Simple Interest Assignment
-This repository contains the simple-interest.sh script along with contributing guidelines, code of conduct, and license.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
